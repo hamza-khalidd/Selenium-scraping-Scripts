@@ -1,6 +1,6 @@
 > ##  Scraping scripts via Selenium Python.
 
-#### Selenium:
+#### Scripts Include:
   → Amazon category Scraping.<br/>
   → Amazon single product Scraping.<br/>
   → Daraz category Scraping.<br/>
